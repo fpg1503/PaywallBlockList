@@ -2,3 +2,4 @@
 ! Title: Paywall BlockList
 ! Expires: 2 days
 ! Homepage: https://github.com/fpg1503/PaywallBlockList
+http://acesso.estadao.com.br/paywall/*
