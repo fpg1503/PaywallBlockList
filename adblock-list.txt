@@ -1,0 +1,4 @@
+[Adblock Plus 2.0]
+! Title: Paywall BlockList
+! Expires: 2 days
+! Homepage: https://github.com/fpg1503/PaywallBlockList
