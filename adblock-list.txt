@@ -3,3 +3,12 @@
 ! Expires: 2 days
 ! Homepage: https://github.com/fpg1503/PaywallBlockList
 http://acesso.estadao.com.br/paywall/*
+https://popmyads.com/serve/*
+http://adserver.dfsites.com.br/*
+http://mackeeperapp.mackeeper.com/landings/*
+http://surfsecured.net/*
+http://www.bet365.com/*
+http://makemoneyrobot.com/*
+http://alert.mac-notification.com/*
+http://mac-app.store-secured.online/*
+http://go.bancdebinary.com/*
