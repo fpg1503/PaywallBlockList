@@ -6,10 +6,12 @@ An ABP List to block Paywalls, ad servers and malicious/anoying sites
 
 # Paywalls
 - Estadão
+- Editora Abril
 
 # Ad servers
 - PopMyAds
 - AdServer (DF Sites)
+- NPT Tech
 
 # Malicious/Annoying Sites
 - MacKeeper Landing Pages
