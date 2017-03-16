@@ -29,6 +29,9 @@ An ABP List to block Paywalls, ad servers and malicious/anoying sites
 - IsAnalyze
 - Device-Information-Console
 
+# Facebook
+- Ads on the right hand side
+
 # Contributting
 - PRs/Issues are welcome
 - If there's a website with a lot of popup ads create an issue with the URL and I'll add them to this list
