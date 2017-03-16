@@ -21,3 +21,4 @@ http://www.isanalyze.com/*
 http://device-information-console.com/*
 http://jsuol.com.br/c/detectadblock/adframe.js
 http://www.npttech.com/advertising.js
+facebook.com##.ego_section
